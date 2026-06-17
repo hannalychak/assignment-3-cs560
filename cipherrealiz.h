@@ -24,10 +24,9 @@ public:
     std::string decrypt(const std::string& text) override;
 };
 
-class XorCipher : public Cipher {
-    std::string key;
+class BaconianCipher : public Cipher {
 public:
-    XorCipher(const std::string& key);
+    BaconianCipher(); // Ключ не нужен, алгоритм фиксированный
     std::string encrypt(const std::string& text) override;
     std::string decrypt(const std::string& text) override;
 };
