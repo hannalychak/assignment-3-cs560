@@ -1,4 +1,4 @@
-#include "VigenereCipher.h"
+#include "cipherrealiz.h"
 #include <cctype>
 
 VigenereCipher::VigenereCipher(const std::string& key) {

@@ -1,5 +1,6 @@
-#include "BaconianCipher.h"
+#include "cipherrealiz.h"
 #include <cctype>
+
 
 const std::string BACON_MAP[26] = {
     "AAAAA", "AAAAB", "AAABA", "AAABB", "AABAA", "AABAB", "AABBA", "AABBB", // A-H

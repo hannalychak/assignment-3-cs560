@@ -1,6 +1,3 @@
-//
-// Created by Hanna Lychak on 17.06.2026.
-//
 
 #ifndef ASSIGNMENT_3_CS560_CIPHER_H
 #define ASSIGNMENT_3_CS560_CIPHER_H
